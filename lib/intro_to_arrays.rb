@@ -27,5 +27,7 @@ last_element_with_array_methods(array)
   return array.last 
 end 
 
-length_of_array
+length_of_array(array)
+  return array.length
+end
 
