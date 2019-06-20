@@ -20,5 +20,12 @@ last_element(array)
 end
 
 first_element_with_array_methods(array)
-  
+  return array.first
+end
+
+last_element_with_array_methods(array)
+  return array.last 
+end 
+
+length_of_array
 
